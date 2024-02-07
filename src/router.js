@@ -1,6 +1,6 @@
 // router.js
 import { createRouter, createWebHistory } from 'vue-router';
-import Home from './views/Home.vue'; // import your components
+import Home from './views/home.vue'; // import your components
 
 const routes = [
   {
