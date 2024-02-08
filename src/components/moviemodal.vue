@@ -68,7 +68,7 @@
         <p class="font-bold text-lg text-gray-700 flex items-center gap-1">
           The cast
           <span class="text-xs text-gray-400 font-normal"
-            >(Click on image to see character name)</span
+            >(Click on image to see character name.)</span
           >
         </p>
         <div class="flex gap-2 sm:gap-4 overflow-x-scroll hide-scrollbar">
